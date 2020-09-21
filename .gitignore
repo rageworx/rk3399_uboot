@@ -5,6 +5,7 @@
 *.map
 *.su
 *.tmp
+*.old
 include/generated/*
 spl/arch/
 spl/board/
