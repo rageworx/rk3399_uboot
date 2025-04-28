@@ -6,7 +6,8 @@
 *.su
 *.tmp
 *.old
-include/generated/*
+include/generated/
+include/config/
 spl/arch/
 spl/board/
 spl/cmd/
@@ -39,3 +40,5 @@ u-boot.sym
 arch/arm/lib/asm-offsets.s
 arch/arm/lib/lib.a
 lib/asm-offsets.s
+tools/_libfdt.cpython-310-x86_64-linux-gnu.so
+tools/libfdt.i
